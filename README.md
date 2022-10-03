@@ -2,19 +2,19 @@
 
 ```
 
-Doctors Page
+Pages
+
+Main-page
 
 Online Appoinment
 
 Online Payment
 
-Pages
-
-Main-page
-
 About-page
 
-Board 
+Board Team Page
+
+Contact Page
 
 Depatment:
 
@@ -61,5 +61,13 @@ Youtube
 Whatups 
 
 ```
+
+Oline Appointment:
+
+Login with OTP
+
+Mail send to Email address
+
+details Informtion
 
 
